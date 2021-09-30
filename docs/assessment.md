@@ -19,3 +19,5 @@ Install the mkdocs package using pip:
 pip install mkdocs
 
 
+Mkdocs themes
+A packaged theme is required to include a configuration file named mkdocs_theme.yml which is placed in the root of your template files.
