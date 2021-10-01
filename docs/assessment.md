@@ -1,7 +1,9 @@
 ![Placeholder](https://dummyimage.com/600x400/eee/aaa){ align=right }
 
 
-
+<picture>
+<img src="./images/fiton1.png" >
+</picture>
 Documentation tools.
 Bit.ai is new-age documentation and knowledge management tool that provides a common workplace for technical writers to collaborate, document, track and share their knowledge, brainstorm ideas, store digital assets, and innovate together. They can interlink Bit documents inside of your workspace with Bit’s wiki feature for both- internal use and external sharing.
 
