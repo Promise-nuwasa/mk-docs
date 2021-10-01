@@ -1,4 +1,9 @@
-![Placeholder](https://dummyimage.com/600x400/eee/aaa){ align=right }
+![Placeholder](https://fiton1.com/600x400/eee/aaa){ Installation
+
+For Apple Devices: 
+Search “FitOn” in the App Store.        
+Install the application.
+ }
 
 
 <picture>
